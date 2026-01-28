@@ -163,3 +163,5 @@ Code licensed under the [Apache License v2.0.](http://www.apache.org/licenses/LI
 
 This repository is cloned for DevOps Git practice.
 
+Change added from feature-readme branch.
+
